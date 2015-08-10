@@ -4,10 +4,11 @@ Ultrasound Distance Sensor connecetd with Ethernet Demo
 This sketch demonstrates application of Ultrasound Distance Measuring Module Sensor for in-store consumer experience scenario 1.
 
 Devices used:
-1. Arduino Uno Prototype Board
-2. Ultrasound Distance Measuring Module HC-SR04
-3. Male-to-Female Jumper Wires
-4. 5V-1A Power Supply
+1. Arduino Uno R3 Prototype Board
+2. Ethernet Shield
+3. Ultrasound Distance Measuring Module HC-SR04
+4. Male-to-Female Jumper Wires
+5. 5V-1A Power Supply
 
 Circult Connection:
 HC-SR04 -> Arduino Uno:
