@@ -1,5 +1,5 @@
 /* 
-Ultrasound Distance Sensor connecetd with Ethernet Demo 
+Ultrasound Distance Sensor connecetd with WiFi Shield 
 
 This sketch demonstrates application of Ultrasound Distance Measuring Module Sensor for in-store consumer experience scenario 1. 
 
