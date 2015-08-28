@@ -26,7 +26,8 @@ Internet connectivity by either Ethernet (no credential) or WiFi (security mode 
 **Server-side IoT Platform:**
 This demo uses Sensligence (www.sensligence.com). 
 
-You may find basic steps to configure Arduino IDE on Mac or Windows computer on Arduino website https://www.arduino.cc/en/Guide/HomePage. 
+**Development Machine:**
+A computer is required so that to update the programs and load into Arduino board. You may find basic steps to configure Arduino IDE on Mac or Windows computer on Arduino website https://www.arduino.cc/en/Guide/HomePage. 
 
 **Following is steps to configure the Arduino for our demo:**
 
